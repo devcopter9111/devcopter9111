@@ -83,11 +83,11 @@ My Research range from Ruby On Rails, Django, PHP(CI, Laravel), Node, React, Vue
 ## &#x1f4c8; My GitHub Stats
 
 <a href="https://github.com/henrihu/henrihu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrihu&hide=java,html&title_color=000000&text_color=000000" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=devcopter9111&hide=java,html&title_color=000000&text_color=000000" />
 </a>
 
 <a href="https://github.com/henrihu/henrihu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=henrihu&show_icons=true&line_height=27&count_private=true&title_color=000000&text_color=000000&icon_color=FAC051" alt="henrihu's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=devcopter9111&show_icons=true&line_height=27&count_private=true&title_color=000000&text_color=000000&icon_color=FAC051" alt="henrihu's GitHub Stats" />
 </a>
 
 
